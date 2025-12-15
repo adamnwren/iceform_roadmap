@@ -1,0 +1,65 @@
+{
+  "inProgress": [
+    {
+      "title": "Weekly Report Emails",
+      "description": "Send comprehensive weekly training reports to your coach via email",
+      "eta": "Coming Soon",
+      "icon": "Sparkles"
+    },
+    {
+      "title": "Advanced Analytics",
+      "description": "Detailed charts and insights into your training patterns over time",
+      "eta": "Q1 2025",
+      "icon": "Zap"
+    }
+  ],
+  "planned": [
+    {
+      "title": "Mobile App",
+      "description": "Native iOS and Android apps for training on the go",
+      "eta": "Q2 2025"
+    },
+    {
+      "title": "Coach Dashboard",
+      "description": "Dedicated portal for coaches to view and manage multiple athletes",
+      "eta": "Q2 2025"
+    },
+    {
+      "title": "Competition Tracking",
+      "description": "Track competition results and performance scores",
+      "eta": "Q3 2025"
+    },
+    {
+      "title": "Training Programs",
+      "description": "Pre-built training programs and templates from top coaches",
+      "eta": "Q3 2025"
+    },
+    {
+      "title": "Video Analysis",
+      "description": "Upload and analyze training videos with frame-by-frame playback",
+      "eta": "Q4 2025"
+    },
+    {
+      "title": "Social Features",
+      "description": "Connect with other figure skaters and share progress",
+      "eta": "Q4 2025"
+    }
+  ],
+  "completed": [
+    {
+      "title": "Weekly Focus Notes",
+      "description": "Set weekly training goals and focus areas",
+      "completedDate": "Dec 2024"
+    },
+    {
+      "title": "Profile Pictures",
+      "description": "Upload and crop custom profile pictures",
+      "completedDate": "Dec 2024"
+    },
+    {
+      "title": "On-Ice Element Tracking",
+      "description": "Track specific on-ice elements (jumps, spins, footwork, program)",
+      "completedDate": "Nov 2024"
+    }
+  ]
+}
