@@ -1,18 +1,18 @@
 {
   "inProgress": [
     {
-      "title": "Migrating To Supabase",
-      "description": "Moving our backend from Firebase to Supabase. You hopefully won't notice the difference but we might have some teething issues.",
+      "title": "Minor Bug Fixes & UI Changes",
+      "description": "We're still finding some minor bugs and making some quality of life adjustments",
       "eta": "Jan 2026",
-      "icon": "Cloud"
+      "icon": "Sparkles"
     },
     {
-      "title": "Weekly Report Emails",
-      "description": "Send comprehensive weekly training reports to your coach via email.",
-      "eta": "Coming Soon",
+      "title": "Help Documention/Tutorials",
+      "description": "We've designed this to be easy to use, but just in case, we'll add some documentation and videos for those who may need it",
+      "eta": "Jan 2026",
       "icon": "Sparkles"
     }
-  ],
+  ]
   "planned": [
     {
       "title": "Mobile App",
@@ -36,20 +36,30 @@
     }
   ],
   "completed": [
+   {
+      "title": "Migrating To Supabase",
+      "description": "Moving our backend from Firebase to Supabase. You hopefully won't notice the difference but we might have some teething issues.",
+      "completedDate": "Dec 2025",
+    },
+    {
+      "title": "Weekly Report Emails",
+      "description": "Send comprehensive weekly training reports to your coach via email.",
+      "completedDate": "Dec 2025",
+    }
     {
       "title": "Weekly Focus Notes",
       "description": "Set weekly training goals and focus areas",
-      "completedDate": "Dec 2024"
+      "completedDate": "Dec 2025"
     },
     {
       "title": "Profile Pictures",
       "description": "Upload and crop custom profile pictures",
-      "completedDate": "Dec 2024"
+      "completedDate": "Dec 2025"
     },
     {
       "title": "On-Ice Element Tracking",
       "description": "Track specific on-ice elements (jumps, spins, footwork, program)",
-      "completedDate": "Nov 2024"
+      "completedDate": "Nov 2025"
     }
   ]
 }
