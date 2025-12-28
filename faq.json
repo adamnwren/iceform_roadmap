@@ -1,0 +1,24 @@
+{
+  "faqItems": [
+    {
+      "question": "There's a feature or change I'd like, how can I suggest it?"
+      "answer": "For now - please use the 'Contact Support' button in the 'Help & Support' popup."
+    },
+    {
+      "question": "How do I add a training session?",
+      "answer": "Click the \"Add Training\" button in the header, fill in the details including duration and elements, then save."
+    },
+    {
+      "question": "How do I send my weekly report to my coach?",
+      "answer": "Click \"Send to Coach\" in the weekly journal card. Make sure you've added your coach's email in your profile settings first."
+    },
+    {
+      "question": "Can I edit past training sessions?",
+      "answer": "Yes! Click on any training session to view details, then click the edit button to make changes."
+    },
+    {
+      "question": "How do I upload a profile picture?",
+      "answer": "Go to your profile settings, click on your avatar, upload an image, and use the cropping tool to adjust it."
+    },
+  ]
+}
