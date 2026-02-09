@@ -6,11 +6,11 @@
     },
     {
       "question": "How do I add a training session?",
-      "answer": "Click the \"Add Training\" button in the header, fill in the details including duration and elements, then save."
+      "answer": "Click the \"Add Training\" button above the weeks calendar, or the + button on mobile, fill in the details including duration and elements, then save."
     },
     {
       "question": "How do I send my weekly report to my coach?",
-      "answer": "Click \"Send to Coach\" in the weekly journal card. Make sure you've added your coach's email in your profile settings first."
+      "answer": "Click \"Send to Coach\" above the weeks calendar. For mobile, you'll see it in the menu button (☰) on the top right. Make sure you've added your coach's email in your profile settings first."
     },
     {
       "question": "Can I edit past training sessions?",
@@ -18,7 +18,11 @@
     },
     {
       "question": "How do I upload a profile picture?",
-      "answer": "Go to your profile settings, click on your avatar, upload an image, and use the cropping tool to adjust it."
+      "answer": "Go to your profile settings, click on your avatar, upload an image, and use the cropping tool to adjust it. For mobile, we're still fixing some bugs."
+    },
+    {
+      "question": "I accidently sent my coach my report early or missing some training. What do I do?",
+      "answer": "Unfortunately, your coach will still get the email. So don’t spam them! You can always send it again but be aware that rate limits apply."
     }
   ]
 }
