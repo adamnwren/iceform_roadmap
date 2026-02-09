@@ -3,9 +3,15 @@
     {
       "title": "Minor Bug Fixes & UI Changes",
       "description": "We're still finding some minor bugs and making some quality of life adjustments",
-      "eta": "Jan 2026",
+      "eta": "March 2026",
       "icon": "Sparkles"
     },
+    {
+      "title": "Mobile Web UI",
+      "description": "In the process of making this usable on mobile",
+      "eta": "March 2026",
+      "icon": "Smartphone"
+    },    
     {
       "title": "Help Documention/Tutorials",
       "description": "We've designed this to be easy to use, but just in case, we'll add some documentation and videos for those who may need it",
