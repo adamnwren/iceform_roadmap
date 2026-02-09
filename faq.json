@@ -23,6 +23,10 @@
     {
       "question": "I accidently sent my coach my report early or missing some training. What do I do?",
       "answer": "Unfortunately, your coach will still get the email. So don’t spam them! You can always send it again but be aware that rate limits apply."
+    },
+    {
+      "question": "Will this app always be free?",
+      "answer": "No. Due of the costs around development, hosting, and infrastructure, it’ll need to be paid at some point. That said, anyone I invite into the beta (you included) will have free access forever."
     }
   ]
 }
